@@ -1,3 +1,3 @@
 #!/bin/python
-print 'hello world!'
-print 'first commit from my own computer'
+print 'Hello World!'
+print 'First commit from my own computer T440s'
